@@ -30,6 +30,7 @@ Pour l'appli :
 * Pour contact avec les experts, repertoire d'expert (avec classification par domaine d'expertise)
 * Experts dovient pouvoir voir les panneaux de contrôles et potentiellement la caméra d'un des smartphones des rondiers (style skype)
 * Boutons sur les applis pour tout traduire
+* Interface pour les contre maitres leur permettant d'ajouter des stations sur la carte
 
 
 #Acteurs :
@@ -46,4 +47,3 @@ Pour l'appli :
 
 * Balsamiq Mock : https://balsamiq.com/download/
 * Violet UML : https://sourceforge.net/projects/violet/files/violetumleditor/
-
