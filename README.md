@@ -22,6 +22,7 @@ Pour l'appli :
 * Eclairage + enceinte pour zone de danger
 * Puce NFC près des machines (avec écran tactile) (si panne NFC, appeler superviseur qui fera la manip et demandera à changer la puce)
 * Pour contact avec les experts, repertoire d'expert (avec classification par domaine d'expertise)
+* Experts dovient pouvoir voir les panneaux de contrôles et potentiellement la caméra d'un des smartphones des rondiers (style skype)
 
 
 #Acteurs :
