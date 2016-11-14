@@ -1,7 +1,7 @@
 # M2_ConceptionEvaluationDeSystemes
 
 #Besoins
-* Communication entre rondier et superviseurs.
+* Communication entre rondier et superviseurs => smartphone.
 * Géolocalisation rondier, pour savoir qui est le plus proche pour agir où quand
 * Rondier doit dire sur son smartphone ce qu'il est en train de faire (déposer smartphone près de machine (nfc) puis ecran en mode quelle tache
 exemple : départ cycle, dosage solvant, purge etc etc). On peut avoir les mains sales donc prévoir des écrans à detection de mouvement.
