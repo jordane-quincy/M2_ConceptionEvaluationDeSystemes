@@ -36,3 +36,9 @@ Pour l'appli :
 * Service Incendie et produits toxiques
 * Techniciens de maintenance
 * Contremaitre
+
+#Outils :
+
+* Balsamiq Mock : https://balsamiq.com/download/
+* Violet UML : https://sourceforge.net/projects/violet/files/violetumleditor/
+
