@@ -9,7 +9,8 @@ exemple : départ cycle, dosage solvant, purge etc etc). On peut avoir les mains
 * Possibilité d'avoir accès à des stats sur ce qu'il s'est passé
 * Marquage des zones dangereuses, lumières (adaptée pour les daltoniens), son + indiquer sur smartphone
 * Contact des experts
-* Appel rapide au service "Incendie et produits toxiques"
+* Appel rapide au service "Incendie et produits toxiques
+* Traduction
 
 Pour l'appli :  
 * Tutoriel d'utilisation de l'appli
@@ -23,6 +24,7 @@ Pour l'appli :
 * Puce NFC près des machines (avec écran tactile) (si panne NFC, appeler superviseur qui fera la manip et demandera à changer la puce)
 * Pour contact avec les experts, repertoire d'expert (avec classification par domaine d'expertise)
 * Experts dovient pouvoir voir les panneaux de contrôles et potentiellement la caméra d'un des smartphones des rondiers (style skype)
+* Boutons sur les applis pour tout traduire
 
 
 #Acteurs :
