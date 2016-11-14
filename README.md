@@ -10,3 +10,11 @@
 
 Pour l'appli :  
 * Tutoriel d'utilisation de l'appli
+
+
+#Solution :
+
+* Appli smartphone pour rondier
+* Appli desktop pour superviseur (dans salle de contrôle)
+* Eclairage + enceinte pour zone de danger
+* Puce NFC près des machines (avec écran tactile)
