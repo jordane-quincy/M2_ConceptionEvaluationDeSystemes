@@ -7,6 +7,7 @@
 * DashBoard avec info pertinante dessus (panneau de contrôle, jauge etc)
 * Possibilité d'avoir accès à des stats sur ce qu'il s'est passé
 * Marquage des zones dangereuses, lumières (adaptée pour les daltoniens), son + indiquer sur smartphone
+* Contact des experts
 
 Pour l'appli :  
 * Tutoriel d'utilisation de l'appli
@@ -18,3 +19,4 @@ Pour l'appli :
 * Appli desktop pour superviseur (dans salle de contrôle)
 * Eclairage + enceinte pour zone de danger
 * Puce NFC près des machines (avec écran tactile)
+* Pour contact avec les experts, repertoire d'expert (avec classification par domaine d'expertise)
