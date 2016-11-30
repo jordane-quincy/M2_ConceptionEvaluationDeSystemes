@@ -1,0 +1,14 @@
+Titre: Donner sa tâche en cours
+Type: Description Globale
+Acteurs : Rondier, Technicien de maintenance
+Date de création : 30 novembre 2016
+Date de Mise à jour : 30 novembre 2016
+Version 1
+Responsable : Jean-Baptiste DURIEZ
+Pré condition : l'Utilisateur est connecté à l'écran d'une station (via puce rfid et smartphone)
+Post condition : Status de l'utilisateur mis à jour, ainsi que celui de la station
+Description Globale :
+
+Lorsque l'utilisateur s'est connecté à la station, il peut alors choisir sur l'écran de la station quel tâche il va effectué
+Une fois qu'il a sélectionné sa tache, son status est mis à jours en fonction de la tâche qu'il a choisi,
+de même pour la machine
