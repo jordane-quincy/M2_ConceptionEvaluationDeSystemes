@@ -12,7 +12,7 @@ Description Globale :
 L'administrateur peut ajouter un utilisateur ayant n'importe quel role.
 Le superviseur peut ajouter un utlisateur ayant comme rôle "rondier"
 
-L'administrateur ou le superviseur aura à renseigner le nom, prénom, mot de passe,
+L'administrateur ou le superviseur aura à renseigner, l'identifiant, le nom, prénom, mot de passe,
 et id de la carte de l'utilisateur qu'il souhaite ajouter.
 Pour l'admin, il devra également renseigner le rôle de l'utlisateur.
 Une fois le formulaire complété il devra cliquer sur "ajouter cet utilisateur",
