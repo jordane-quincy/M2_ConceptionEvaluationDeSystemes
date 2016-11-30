@@ -1,4 +1,4 @@
-Titre: Ajouter un utilisateur
+Titre: Supprimer un utilisateur
 Type: Description Globale
 Acteurs : Admin, Superviseur
 Date de création : 30 novembre 2016
