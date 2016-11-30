@@ -8,9 +8,14 @@ exemple : départ cycle, dosage solvant, purge etc etc). On peut avoir les mains
 * DashBoard avec info pertinante dessus (panneau de contrôle, jauge etc)
 * Possibilité d'avoir accès à des stats sur ce qu'il s'est passé
 * Marquage des zones dangereuses, lumières (adaptée pour les daltoniens), son + indiquer sur smartphone
-* Contact des experts
-* Appel rapide au service "Incendie et produits toxiques
+* Contact des experts : comme ils peuvent être dans un pays différent, lors d'un appel en langues étrangères, l'application traduit automatique dans les deux sens (pour le rondier : FR->EN, pour l'expert : EN->FR)
+* Appel rapide au service "Incendie et produits toxiques" : indiquer l'emplacement du problème + la gravité + le type (incendie ou produits toxiques)
 * Traduction
+* Besoin de :
+	* réutilisabilité d'un pays à l'autre : i18n
+	* réutilisabilité d'un projet à l'autre : l'application se conforme à la spécification OSGi (découpages en modules)
+	* solutions économiques : ???
+	* solutions durables : ??? (rétro éclairage?)
 
 Pour l'appli :  
 * Tutoriel d'utilisation de l'appli
