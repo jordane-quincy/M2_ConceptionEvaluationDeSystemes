@@ -1,0 +1,22 @@
+Titre: Ajouter un utilisateur
+Type: Description Globale
+Acteurs : Admin, Superviseur
+Date de création : 30 novembre 2016
+Date de Mise à jour : 30 novembre 2016
+Version 1
+Responsable : Jean-Baptiste DURIEZ
+Pré condition : L'administrateur ou un Superviseur est connecté à l'application et a cliqué
+sur le bouton "Modifier un utilisateur" après avoir cliqué sur "Gérer les utilisateurs"
+Post condition : Un utlisateur existant est modifié et retour à l'écran de gestion des utilisateurs
+Description Globale :
+L'administrateur peut modifier un utilisateur ayant n'importe quel role.
+Le superviseur peut modifier un utlisateur ayant comme rôle "rondier"
+
+L'administrateur ou le superviseur accède à un écran avec une liste déroulante,
+lui permettant de choisir quel utilisateur modifier.
+Il sélectionne un utilisateur de la liste puis clique sur "modifier".
+Il arrive alors sur l'écran de modification qui est le même formulaire que pour la connexion, avec les champs déjà remplis
+Il pourra alors changer les champs qu'ils souhaitent puis cliquer sur valider.
+Une pop-up de confirmation apparaît avec un récapitulatif des modifications.
+S'il valide, alors les modifications sont enregistrés et retour à l'écran de gesion des utilisateurs.
+S'il annule, alors auncune modification n'est sauvegardé et retour sur le formulaire de modification.
