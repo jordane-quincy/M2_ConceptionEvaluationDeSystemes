@@ -5,15 +5,18 @@ Elle permet de saisir manuellement les informations de connexion du rondier
 au cas où celui-ci aurait oublié sa carte d'utilisateur.
 Dans le cas contraire, l'application détecte la carte au dos du smartphone et authentifie automatiquement l'utilisateur.
 
+
 Les rondiers étant plus ou moins expérimentés,
-l'onglet "Localisation"
-
-Dès qu'une puce RFID est détectée, l'application bascule automatiquement vers la vue "Rondier_Tache"
-et allume l'écran de la station correspondante.
-
+l'onglet "Localisation" permet à tout instant de retrouver son chemin vers le centre de contrôle ou une station.
+Cette vue combine les informations de la puce GPS du smartphone ainsi que celles des tags RFID disséminée partout sur le site
+car le signal GPS peut être insuffisant ou inexistant à l'intérieur des bâtiments.
 
 
-Cette vue permet au rondier de saisir la tâche qu'il s'apprête à faire.
+Dès qu'une des puces RFID d'une station est détectée, l'application bascule automatiquement vers la vue "Tâche".
+"Tâche" a) 
+	Demande à l'utilisateur de patienter et allume l'écran de la station correspondante.
+"Tâche" b)
+	Information le rondier de son authentification sur la station afin qu'il puisse saisir la tâche qu'il s'apprête à faire.
 
 
 ComboBox : 
