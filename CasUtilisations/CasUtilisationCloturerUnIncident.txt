@@ -1,6 +1,6 @@
-Titre: Visualiser les incidents
+Titre: Clôturer un incident
 Type: Description Globale
-Acteurs : Superviseur, Rondier, Technicien de maintenance
+Acteurs : Superviseur, Technicien de maintenance
 Date de création : 30 novembre 2016
 Date de Mise à jour : 30 novembre 2016
 Version 1
@@ -16,5 +16,5 @@ Il arrive sur un formulaire où il devra préciser, le nom de l'incident,
 son lieu, sa sévérité, son type, des photos (si l'utilisateur est sur smartphone)
 Une fois le formulaire complété il devra cliquer sur "déclarer cet incidents",
 Une pop-up de validation apparaîtra,
-s'il valide, l'incident sera créé (avec comme personne de création lui-même) et redirection vers l'écran de gestion des incidents
+s'il valide, l'incident sera créé et redirection vers l'écran de gestion des incidents
 s'il annule, l'utilisateur reste sur le formulaire et aucune création n'est faite.
