@@ -1,0 +1,17 @@
+Titre: Ajouter un utilisateur
+Type: Description Globale
+Acteurs : Admin, Superviseur
+Date de création : 30 novembre 2016
+Date de Mise à jour : 30 novembre 2016
+Version 1
+Responsable : Jean-Baptiste DURIEZ
+Pré condition : L'administrateur ou un Superviseur est connecté à l'application et a cliqué
+sur le bouton "Ajouter un utilisateur" après avoir cliqué sur "Gérer les utilisateurs"
+Post condition : Un nouvel utilisateur est ajouté à l'application et retour au menu de l'utilisateur
+Description Globale :
+L'administrateur peut ajouter un utilisateur ayant n'importe quel role.
+Le superviseur peut ajouter un utlisateur ayant comme rôle "rondier"
+
+L'administrateur ou le superviseur aura à renseigner le nom, prénom, mot de passe,
+et id de la carte de l'utilisateur qu'il souhaite ajouter.
+Pour l'admin, il devra également renseigner le rôle de l'utlisateur
