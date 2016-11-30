@@ -18,3 +18,5 @@ Si clique sur la loupe d'un incident, l'utilisateur est redirigé vers l'écran 
 Où il pourra retrouver toutes les informations relatives à l'incident.
 Sur l'écran de détails d'un incident, un bouton "Retour" permet de revenir sur la liste des incidents.
 Un bouton "Clôturer incident" est aussi présent sur cette page.
+Depuis la liste, l'utilisateur peut aussi cliquer sur le bouton "Incidents clos" la liste chargera alors les incidents qui ont été clôturés.
+Il pourra revenir sur la liste des incidents en cours en cliquant sur le bouton "Incidents en cours".

@@ -6,15 +6,12 @@ Date de Mise à jour : 30 novembre 2016
 Version 1
 Responsable : Jean-Baptiste DURIEZ
 Pré condition : l'Utilisateur est connecté à l'application et a cliqué
-sur le bouton "Déclarer un incident" après avoir cliqué sur "Gérer les incidents"
-Post condition : Un incident est créé et est ajouté à la liste des incidents en cours
+sur le bouton "Clôturer cet incident" alors qu'il est sur l'écran "détails d'un incident"
+Post condition : L'incident concerné est clôturé et est retiré de la liste des incidents en cours
+Redirection sur l'écran de visualisation des incidents (liste des incidents en cours)
 Description Globale :
 
-L'utilisateur peut créer un incident.
-
-Il arrive sur un formulaire où il devra préciser, le nom de l'incident,
-son lieu, sa sévérité, son type, des photos (si l'utilisateur est sur smartphone)
-Une fois le formulaire complété il devra cliquer sur "déclarer cet incidents",
-Une pop-up de validation apparaîtra,
-s'il valide, l'incident sera créé et redirection vers l'écran de gestion des incidents
-s'il annule, l'utilisateur reste sur le formulaire et aucune création n'est faite.
+Lorsque l'utilisateur clique sur le bouton "Clôturer incident", une pop-up de confirmation apparait
+S'il valide, l'incident est clôturer, son status passe de "en cours" à "clos"
+L'incident est donc retiré de la liste des incidents en cours et ajouté à la liste des incidents clos.
+Si l'utilisateur annule (à l'affichage de la pop-up) alors l'incident n'est pas clôturé.
