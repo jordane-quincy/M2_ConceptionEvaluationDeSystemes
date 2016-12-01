@@ -1,0 +1,22 @@
+Titre: Déclarer un incident
+Type: Description Globale
+Acteurs : Superviseur, Rondier, Technicien de maintenance, Expert
+Date de création : 30 novembre 2016
+Date de Mise à jour : 30 novembre 2016
+Version 1
+Responsable : Jean-Baptiste DURIEZ
+Pré condition : l'Utilisateur est connecté à l'application et a cliqué
+sur le bouton "Visualiser les incidents" après avoir cliqué sur "Gérer les incidents"
+Post condition : Affichage des incidents
+Description Globale :
+
+L'utilisateur arrive sur la liste des incidents en cours.
+La liste est triée par défaut par date de création (de la plus récente à la plus ancienne)
+Des filtres sont disponibles pour filtrer les incidents par type, par sévérité, par personne de création...
+La liste peut-être trié par nom, sévérité, date de création, personne de création...
+Si clique sur la loupe d'un incident, l'utilisateur est redirigé vers l'écran détail d'un incident
+Où il pourra retrouver toutes les informations relatives à l'incident.
+Sur l'écran de détails d'un incident, un bouton "Retour" permet de revenir sur la liste des incidents.
+Un bouton "Clôturer incident" est aussi présent sur cette page.
+Depuis la liste, l'utilisateur peut aussi cliquer sur le bouton "Incidents clos" la liste chargera alors les incidents qui ont été clôturés.
+Il pourra revenir sur la liste des incidents en cours en cliquant sur le bouton "Incidents en cours".

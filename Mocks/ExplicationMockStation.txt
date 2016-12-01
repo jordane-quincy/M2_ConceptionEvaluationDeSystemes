@@ -1,0 +1,15 @@
+
+L'écran est allumée à distance par le smartphone d'un rondier ou d'un technicien de maintenance
+lorsqu'un tag RFID de la station est detectée.
+L'écran est muni de capteurs de distance afin qu'aucun contact ne soit nécessaire (les mains pouvant être souillées).
+
+L'authentification étant automatiquement transmise par le téléphone,
+l'utilisateur arrive sur l'écran selon son rôle.
+
+Le rondier arrive sur la vue "Tâche" et grâce aux capteurs de distance, clique sur le bouton de la tâche souhaitée.
+Une fois ses tâches terminés, il utilise le bouton prévu à cet effet afin de se déconnecter.
+Dans le cas, d'un oubli :
+	- soit un autre utilisateur se connecte sur la station, écrasant la précédente authentification.
+	- soit 10 minutes se sont écoulés sans interaction, alors la déconnexion est forcée.
+
+Le technicien de maintenance arrive, pour sa part, sur la vue "Entretien" pour indiquer l'opération.
