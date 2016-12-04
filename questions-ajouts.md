@@ -12,3 +12,6 @@ Ajouts:
 	-Ajout Temps avant départ arrivée
 	-Ajouter un bouton '+' lors des créations pour pouvoir créer plusieurs users, incidents, si besoin est.
 	-Ajout Apparence, afin de personnaliser l'apparence de l'application(couleur, position des blocks, ...).
+
+Rappels:
+	-Ajout input activité sur création utilisateur !
