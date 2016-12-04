@@ -7,6 +7,8 @@ Savoir qui prend le relais, afin de le contacter(temps restant avant depart dans
 Un seul role ?
 	OUI
 
-Rappel:
+Ajouts:
 	-Ajout Sexe
 	-Ajout Temps avant départ arrivée
+	-Ajouter un bouton '+' lors des créations pour pouvoir créer plusieurs users, incidents, si besoin est.
+	-Ajout Apparence, afin de personnaliser l'apparence de l'application(couleur, position des blocks, ...).
