@@ -15,3 +15,6 @@ Lorsque l'utilisateur clique sur le bouton "Clôturer incident", une pop-up de c
 S'il valide, l'incident est clôturer, son status passe de "en cours" à "clos"
 L'incident est donc retiré de la liste des incidents en cours et ajouté à la liste des incidents clos.
 Si l'utilisateur annule (à l'affichage de la pop-up) alors l'incident n'est pas clôturé.
+
+Dans la plupart des cas le superviseur gère les problemes qui surviennent par le biais de l'interface des stations et des maps et n'a donc pas besoin de créé de lui même les incidents.
+Il lui suffit lorsqu'un probleme survient(certaines anomalies sont détéctées et affichées sous formes de message), le superviseur n'a plus qu'a clické sur le probleme apparant et à cliquer sur des rondiers afin qu'il aillent effectuer la tâche confiée.
