@@ -1,4 +1,4 @@
-Titre: Clôturer un incident
+﻿Titre: Clôturer un incident
 Type: Description Globale
 Acteurs : Superviseur, Technicien de maintenance
 Date de création : 30 novembre 2016
@@ -18,7 +18,7 @@ Si l'utilisateur annule (à l'affichage de la pop-up) alors l'incident n'est pas
 
 Dans la plupart des cas le superviseur gère les problemes qui surviennent par le biais de l'interface
 des stations et des maps et n'a donc pas besoin de créé de lui même les incidents.
-Il lui suffit lorsqu'un probleme survient(certaines anomalies sont détéctées et affichées sous forme de messages),
-le superviseur n'a plus qu'a cliquer sur le probleme apparant et à cliquer sur des rondiers afin qu'il aillent effectuer la tâche confiée.
+Il suffit au superviseur lorsqu'un probleme survient(certaines anomalies sont détéctées et affichées sous forme de messages),
+de cliquer sur le probleme apparant et à cliquer sur des rondiers afin qu'il aillent effectuer la tâche confiée.
 
 cliquer = (souris ou tablette tactile ou contact directement sur l'écran)

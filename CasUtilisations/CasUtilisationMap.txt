@@ -1,0 +1,18 @@
+Gestion de la MAP
+
+I. On peut y retrouver plusieurs informations:
+	I.1 La map(gestion du personnel qui se déplace sur le site, ainsi qu les stations présentent et activent)
+	I.2 Les messages d'avertissement d'incident(lorsque qu'un incident est sur le point de se produire ou se produit,
+	    les superviseurs seront averti)
+	I.3
+
+II. Et on peut y effectuer plusieurs opérations:
+	II.1 En cliquant sur un message reçu(cf I.2) le superviseur pourra attribuer la résolution du probleme à certains rondiers
+	     (les plus proches, les disponibles, les plus experimentés, ...)
+	II.2 Il est possible grossierement le chemin que doivent suivre les rondiers afin d'aller sur la station pour résoudre
+	     le probleme(pourrait permettre de résoudre un autre soucis en passant autre part)
+
+nb1: les stations activent sont de couleur verte,
+de meme le rondiers qui ne sont pas occupés à effectuer une mission sseront en vert.
+Les stations inactives seront rouge, ce qui sera aussi le cas pour les rondiers occupés.
+
