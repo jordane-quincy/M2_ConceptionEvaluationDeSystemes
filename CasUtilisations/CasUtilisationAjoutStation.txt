@@ -1,0 +1,19 @@
+Titre: Ajouter une station
+Type: Description Globale
+Acteurs : Contremaitre
+Date de création : 07 décembre 2016
+Date de Mise à jour : 07 décembre 2016
+Version 1
+Responsable : Jean-Baptiste DURIEZ
+Pré condition : l'Utilisateur est connecté à l'application et a cliqué
+sur le bouton "Ajouter une station"
+Post condition : Enregistrement d'une station, mise à jour des cartes sur tous les appareils
+avec affichage de l'emplacement de la nouvelle station
+Description Globale :
+
+L'utilisateur arrive sur un formulaire.
+Il doit remplir le champs nom de la station et sélectionner un emplacement sur la carte
+correspondant à l'emplacement de la nouvelle station
+Une fois le formulaire complété, l'utilisateur devra cliquer sur le bouton "Ajouter cette station"
+une pop-up de validation apparaitra, si validation la station est créée et redirection vers l'écran d'accueil
+S'il annule, retour sur le formulaire
