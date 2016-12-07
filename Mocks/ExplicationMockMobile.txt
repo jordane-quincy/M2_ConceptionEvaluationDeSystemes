@@ -1,4 +1,4 @@
-
+﻿
 Au lancement de l'application,
 la page "Connexion" est chargée.
 Elle permet de saisir manuellement les informations de connexion du rondier
@@ -18,9 +18,5 @@ Dès qu'une des puces RFID d'une station est détectée, l'application bascule a
 "Tâche" b)
 	Information le rondier de son authentification sur la station afin qu'il puisse saisir la tâche qu'il s'apprête à faire.
 
-
-ComboBox : 
-Saisir tâche
-Ajout solvant
-Départ cycle
-Purge
+La vue "Incident" permet de selectionner l'incident en cours
+et d'activer l'assitance vidéo pour permettre à l'expert de mieux comprendre le problème.
