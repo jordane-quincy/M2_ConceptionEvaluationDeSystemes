@@ -20,3 +20,5 @@ Dès qu'une des puces RFID d'une station est détectée, l'application bascule a
 
 La vue "Incident" permet de selectionner l'incident en cours
 et d'activer l'assitance vidéo pour permettre à l'expert de mieux comprendre le problème.
+
+Chaque page est munie d'un drapeau permettant de changer la langue.
