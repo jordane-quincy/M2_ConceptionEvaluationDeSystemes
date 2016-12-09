@@ -1,4 +1,4 @@
-Titre: Déclarer un incident
+Titre: Visualiser les incidents
 Type: Description Globale
 Acteurs : Superviseur, Rondier, Technicien de maintenance, Expert
 Date de création : 30 novembre 2016
