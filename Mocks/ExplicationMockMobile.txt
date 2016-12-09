@@ -2,8 +2,8 @@
 Au lancement de l'application,
 la page "Connexion" est chargée.
 Elle permet de saisir manuellement les informations de connexion du rondier
-au cas où celui-ci aurait oublié sa carte d'utilisateur.
-Dans le cas contraire, l'application détecte la carte au dos du smartphone et authentifie automatiquement l'utilisateur.
+au cas où celui-ci aurait oublié son smartphone.
+Dans le cas contraire, l'utilisateur passe le smartphone devant le tag rfid et l'application authentifie automatiquement l'utilisateur.
 
 
 Les rondiers étant plus ou moins expérimentés,
